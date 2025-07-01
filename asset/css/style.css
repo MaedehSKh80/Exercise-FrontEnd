@@ -230,7 +230,18 @@ footer .title {
 footer img {
   margin-top: 100px;
 }
-.swiper {
-  width: 600px;
-  height: 300px;
+.threecards {
+  width: 100%;
+  height: 500px;
+}
+.swiper .threecardsSwiper-slide {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #bba991;
+  font-size: 15px !important;
 }
