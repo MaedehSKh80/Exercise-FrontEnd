@@ -230,3 +230,7 @@ footer .title {
 footer img {
   margin-top: 100px;
 }
+.swiper {
+  width: 600px;
+  height: 300px;
+}
